@@ -17,6 +17,7 @@
 - Never Disable Screenshot
 - Remote Play Enabler
 - Save data mount
+- Todex 0x80 
 
 ## Contributors
 Massive credits to the following:
