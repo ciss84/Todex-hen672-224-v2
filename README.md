@@ -18,6 +18,7 @@
 - Remote Play Enabler
 - Save data mount
 - Todex 0x80 
+- Fix error debug setting (23 patch)
 
 ## Contributors
 Massive credits to the following:
