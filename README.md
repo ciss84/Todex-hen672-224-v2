@@ -1,4 +1,4 @@
-# PS4HEN v2.2
+# PS4HEN v2.2.3
 
 ## Features
 - Homebrew Enabler
@@ -10,7 +10,7 @@
 - Remote Package Install
 - Rest Mode Support
 - External HDD Format 7.xx Support
-- FW Version Spoof to 7.51
+- FW Version Spoof to 8.00
 - Debug Trophies Support
 - sys_dynlib_dlsym Patch
 - UART Enabler
