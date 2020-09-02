@@ -105,10 +105,6 @@ int install_payload(struct thread *td, struct install_payload_args* args)
 	*(uint32_t *)(kernel_base + sdk_version_patch7) = FAKE_FW_VERSION;
 	*(uint32_t *)(kernel_base + sdk_version_patch8) = FAKE_FW_VERSION;
 	*(uint32_t *)(kernel_base + sdk_version_patch9) = FAKE_FW_VERSION;
-  *(uint32_t *)(kernel_base + sdk_version_patch20) = FAKE_FW0_VERSION_SDK;
- 	*(uint32_t *)(kernel_base + sdk_version_patch21) = FAKE_FW1_VERSION_SDK;
- 	*(uint32_t *)(kernel_base + sdk_version_patch22) = FAKE_FW2_VERSION_SDK;
- 	*(uint32_t *)(kernel_base + sdk_version_patch23) = FAKE_FW3_VERSION_SDK;
   *(uint32_t *)(kernel_base + dex_version_patch) = FAKE_VERSION_DEX;
     			 		 	 		 	 				
 	// enable debug log
@@ -172,7 +168,7 @@ int _main(struct thread *td)
 	patch_update();
 
 	initSysUtil();
-	notify("Todex HEN V"VERSION);
+	notify("TO-DEX HEN BY MUGIWARA AND CRONO_ V"VERSION);
 
 	printfsocket("Done.\n");
 
