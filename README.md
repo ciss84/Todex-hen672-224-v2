@@ -37,8 +37,7 @@ Massive credits to the following:
 - Anonymous
 
 ## Testers
-- [SCORPION](https://twitter.com/SCORPION1399)
-- [KiiWii](https://twitter.com/defaultdnb)
-- [Leeful74](https://twitter.com/leeful74)
-- [opoisso893](https://twitter.com/opoisso893)
-- Anonymous
+- [cronocardoso](https://twitter.com/cronocardoso)
+- [GamerHack93](https://twitter.com/GamerHack93)
+- [The Wolf Games](https://twitter.com/mohammad_fadel1)
+
