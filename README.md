@@ -20,7 +20,7 @@
 - Todex 0x80 
 - Fix error debug setting (23 patch)
 
-## Contributors
+## Contributors for 5.05
 Massive credits to the following:
 - [qwertyoruiopz](https://twitter.com/qwertyoruiopz)
 - [Specter](https://twitter.com/SpecterDev) 
@@ -36,7 +36,7 @@ Massive credits to the following:
 - [Al-Azif](https://github.com/Al-Azif)
 - Anonymous
 
-## Testers
+## Testers for 6.72
 - [cronocardoso](https://twitter.com/cronocardoso)
 - [GamerHack93](https://twitter.com/GamerHack93)
 - [The Wolf Games](https://twitter.com/mohammad_fadel1)
