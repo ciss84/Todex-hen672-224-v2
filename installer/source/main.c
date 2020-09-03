@@ -168,7 +168,7 @@ int _main(struct thread *td)
 	patch_update();
 
 	initSysUtil();
-	notify("TO-DEX HEN BY MUGIWARA AND CRONO_ V"VERSION);
+	notify("TO-DEX HEN POR MUGIWARA E CRONO_ V"VERSION);
 
 	printfsocket("Done.\n");
 
