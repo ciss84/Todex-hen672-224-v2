@@ -10,7 +10,7 @@
 - Remote Package Install
 - Rest Mode Support
 - External HDD Format 7.xx Support
-- FW Version Spoof to 8.00 (13 patch)
+- FW Version Spoof to 8.00 (9 patch)
 - Debug Trophies Support
 - sys_dynlib_dlsym Patch
 - UART Enabler
@@ -20,7 +20,7 @@
 - Todex 0x80 
 - Fix error debug setting (23 patch)
 
-## Contributors
+## Contributors for 5.05
 Massive credits to the following:
 - [qwertyoruiopz](https://twitter.com/qwertyoruiopz)
 - [Specter](https://twitter.com/SpecterDev) 
@@ -36,9 +36,8 @@ Massive credits to the following:
 - [Al-Azif](https://github.com/Al-Azif)
 - Anonymous
 
-## Testers
-- [SCORPION](https://twitter.com/SCORPION1399)
-- [KiiWii](https://twitter.com/defaultdnb)
-- [Leeful74](https://twitter.com/leeful74)
-- [opoisso893](https://twitter.com/opoisso893)
-- Anonymous
+## Testers for 6.72
+- [cronocardoso](https://twitter.com/cronocardoso)
+- [GamerHack93](https://twitter.com/GamerHack93)
+- [The Wolf Games](https://twitter.com/mohammad_fadel1)
+
