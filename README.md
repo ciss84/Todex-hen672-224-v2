@@ -36,7 +36,7 @@ Massive credits to the following:
 - [Al-Azif](https://github.com/Al-Azif)
 - Anonymous
 
-## Testers for 6.72
+## Contributors & Testers for 6.72
 - [cronocardoso](https://twitter.com/cronocardoso)
 - [GamerHack93](https://twitter.com/GamerHack93)
 - [The Wolf Games](https://twitter.com/mohammad_fadel1)
