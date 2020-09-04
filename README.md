@@ -17,7 +17,7 @@
 - Never Disable Screenshot
 - Remote Play Enabler
 - Save data mount
-- Todex 0x80 v2
+- Todex 0x80 patch v2
 - Fix error debug setting (23 patch)
 
 ## Contributors for 5.05
