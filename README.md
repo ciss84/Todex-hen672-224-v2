@@ -1,4 +1,4 @@
-# PS4HEN v2.2.3
+# PS4HEN v2.2.4
 
 ## Features
 - Homebrew Enabler
@@ -17,7 +17,7 @@
 - Never Disable Screenshot
 - Remote Play Enabler
 - Save data mount
-- Todex 0x80 
+- Todex 0x80 v2
 - Fix error debug setting (23 patch)
 
 ## Contributors for 5.05
@@ -36,8 +36,8 @@ Massive credits to the following:
 - [Al-Azif](https://github.com/Al-Azif)
 - Anonymous
 
-## Testers for 6.72
+## Contributors & Testers for 6.72
 - [cronocardoso](https://twitter.com/cronocardoso)
 - [GamerHack93](https://twitter.com/GamerHack93)
 - [The Wolf Games](https://twitter.com/mohammad_fadel1)
-
+- [Mugiwara](https://twitter.com/84Ciss)
