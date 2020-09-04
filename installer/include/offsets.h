@@ -60,7 +60,6 @@
 #define sdk_version_patch7              0x01A84248
 #define sdk_version_patch8              0x022C0718
 #define sdk_version_patch9              0x02926C81
-#define dex_version_patch               0x01BD800D
 
 // enable debug log
 #define enable_debug_log_patch          0x00123367

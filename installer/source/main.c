@@ -19,6 +19,7 @@ int install_payload(struct thread *td, struct install_payload_args* args)
 	cred = td->td_proc->p_ucred;
 
 	uint8_t* kernel_base = (uint8_t*)(__readmsr(0xC0000082) - XFAST_SYSCALL_addr);
+	*(unsigned char*)(kernel_base + 0x1BD800D) = 0x80;
 	uint8_t* kernel_ptr = (uint8_t*)kernel_base;
 	void** got_prison0 = (void**)&kernel_ptr[PRISON0_addr];
 	void** got_rootvnode = (void**)&kernel_ptr[ROOTVNODE_addr];
@@ -105,7 +106,6 @@ int install_payload(struct thread *td, struct install_payload_args* args)
 	*(uint32_t *)(kernel_base + sdk_version_patch7) = FAKE_FW_VERSION;
 	*(uint32_t *)(kernel_base + sdk_version_patch8) = FAKE_FW_VERSION;
 	*(uint32_t *)(kernel_base + sdk_version_patch9) = FAKE_FW_VERSION;
-  *(uint32_t *)(kernel_base + dex_version_patch) = FAKE_VERSION_DEX;
     			 		 	 		 	 				
 	// enable debug log
 	*(uint16_t*)(kernel_base + enable_debug_log_patch) = 0x38EB;
@@ -168,7 +168,7 @@ int _main(struct thread *td)
 	patch_update();
 
 	initSysUtil();
-	notify("TO-DEX HEN POR MUGIWARA E CRONO_ V"VERSION);
+	notify("HEN BY MUGIWARA AND CRONO_ V"VERSION);
 
 	printfsocket("Done.\n");
 
